@@ -1,0 +1,43 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background-color: deeppink;
+    border-radius: 25%;
+    position: absolute;
+    background-image: linear-gradient(to right bottom,royalblue,deeppink,gold);
+}
+.box2{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    top: 70px;
+    border: 30px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 25%;
+}
+.box3{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    top: 70px;
+    border: 30px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 50%;
+}
+.box4{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    margin: auto;
+    top: 40px;
+    left: 220px;
+    border: 15px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    background-color: aliceblue;
+    border-radius: 50%;
+}
